@@ -1,0 +1,21 @@
+/* Class = "UILabel"; text = "Username"; ObjectID = "cXO-uR-WaQ"; */
+"cXO-uR-WaQ.text" = "ユーザー名";
+
+/* Class = "UILabel"; text = "Company"; ObjectID = "NJe-up-XBy"; */
+"NJe-up-XBy.text" = "会社";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "ogl-Tg-yZt"; */
+"ogl-Tg-yZt.text" = "名";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "rMP-qn-PtZ"; */
+"rMP-qn-PtZ.text" = "パスワード";
+
+/* Class = "UIButton"; normalTitle = "Change Security"; ObjectID = "u79-Ux-N9h"; */
+"u79-Ux-N9h.normalTitle" = "セキュリティの変更";
+
+/* Class = "UILabel"; text = "Last Login"; ObjectID = "WYm-qd-NZv"; */
+"WYm-qd-NZv.text" = "前回のログイン";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "WYu-Yp-1gj"; */
+"WYu-Yp-1gj.normalTitle" = "ログイン";
+

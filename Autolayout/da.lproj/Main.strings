@@ -1,0 +1,18 @@
+/* Class = "UILabel"; text = "Username"; ObjectID = "cXO-uR-WaQ"; */
+"cXO-uR-WaQ.text" = "Username";
+
+/* Class = "UILabel"; text = "Company"; ObjectID = "NJe-up-XBy"; */
+"NJe-up-XBy.text" = "Компани";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "rMP-qn-PtZ"; */
+"rMP-qn-PtZ.text" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Change Security"; ObjectID = "u79-Ux-N9h"; */
+"u79-Ux-N9h.normalTitle" = "Change Security";
+
+/* Class = "UILabel"; text = "Last Login"; ObjectID = "WYm-qd-NZv"; */
+"WYm-qd-NZv.text" = "Последний Логин в ПАРИЖЕ";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "WYu-Yp-1gj"; */
+"WYu-Yp-1gj.normalTitle" = "Login";
+
